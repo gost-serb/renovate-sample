@@ -1,0 +1,4 @@
+[requires]
+foo/1.9.4
+Bar/1.2.3
+BAZ/1.1.1
